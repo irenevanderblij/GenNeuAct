@@ -1,5 +1,5 @@
 # GenNeuAct
-This repository contains the code written for my Master's thesis: Exploiting neuron activation values for creating adversarial examples.
+This repository contains the code written for my Master's thesis: Exploiting neuron activation values for creating adversarial examples. Thesis is publicly available via https://repository.tudelft.nl/islandora/object/uuid%3A0cc33f03-ba87-4873-be90-30965aec12cc?collection=education.
 
 ### Abstract
 The increasing usage of neural networks forms a threat to the cyber security as attacks with adversarial examples can deceive the networks.
